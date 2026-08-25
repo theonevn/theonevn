@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-theonevn.png" width="100%">
+  <img src="./banner-theonevn.png" width="25%">
 </p>
 
 # Olá, eu sou o Vinícius! 👋
