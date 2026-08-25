@@ -66,6 +66,11 @@ Busco minha primeira oportunidade na área de desenvolvimento, com interesse pri
 
 Meu objetivo é continuar evoluindo tecnicamente, desenvolver projetos cada vez mais completos e transformar o conhecimento adquirido nos estudos em soluções reais.
 
----
 
 📚 Sempre aprendendo. Sempre construindo.
+
+
+
+---## 📊 Minhas contribuições
+
+<img src="https://raw.githubusercontent.com/theonevn/theonevn/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph">
