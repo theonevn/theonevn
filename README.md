@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner-theonevn.png" width="100%">
+</p>
+
 # Olá, eu sou o Vinícius! 👋
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e estou em constante evolução na área de tecnologia.
